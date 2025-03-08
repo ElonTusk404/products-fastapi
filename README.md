@@ -7,3 +7,8 @@ EventHandler from Order Service for reserving products
 
 
 ![image](products-db.png)
+
+
+
+
+![image2](flow.jpg)
